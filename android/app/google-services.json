@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526784503511",
+    "project_id": "lend-log",
+    "storage_bucket": "lend-log.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526784503511:android:aec0b5fdddc55f84b55a92",
+        "android_client_info": {
+          "package_name": "com.aqilah.ssw3401_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTg97RsL5SYvLrwsEMrFg_1BRRwhK70Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
